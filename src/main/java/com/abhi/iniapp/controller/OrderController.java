@@ -11,12 +11,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * Created by Intellij.
- * Author: Abhishek Peiris
- * Date: 29/03/2023
- * Time: 16:45
- */
+
 @RestController
 @RequestMapping(value = "/api/order")
 @Slf4j

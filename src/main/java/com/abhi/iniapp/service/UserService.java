@@ -6,12 +6,7 @@ import com.abhi.iniapp.entity.User;
 
 import java.util.List;
 
-/**
- * Created by Intellij.
- * Author: Abhishek Peiris
- * Date: 27/03/2023
- * Time: 23:39
- */
+
 public interface UserService {
 
     UserDto saveUser(UserDto userDto);
